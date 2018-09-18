@@ -1,0 +1,6 @@
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que4CountDigit\Que4CountDigit\bin\Debug\Que4CountDigit.exe.config
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que4CountDigit\Que4CountDigit\bin\Debug\Que4CountDigit.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que4CountDigit\Que4CountDigit\bin\Debug\Que4CountDigit.pdb
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que4CountDigit\Que4CountDigit\obj\Debug\Que4CountDigit.csprojResolveAssemblyReference.cache
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que4CountDigit\Que4CountDigit\obj\Debug\Que4CountDigit.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que4CountDigit\Que4CountDigit\obj\Debug\Que4CountDigit.pdb

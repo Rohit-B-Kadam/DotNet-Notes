@@ -1,0 +1,6 @@
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que1CheckPrimePrefect\Que1CheckPrimePrefect\bin\Debug\Que1CheckPrimePrefect.exe.config
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que1CheckPrimePrefect\Que1CheckPrimePrefect\bin\Debug\Que1CheckPrimePrefect.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que1CheckPrimePrefect\Que1CheckPrimePrefect\bin\Debug\Que1CheckPrimePrefect.pdb
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que1CheckPrimePrefect\Que1CheckPrimePrefect\obj\Debug\Que1CheckPrimePrefect.csprojResolveAssemblyReference.cache
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que1CheckPrimePrefect\Que1CheckPrimePrefect\obj\Debug\Que1CheckPrimePrefect.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que1CheckPrimePrefect\Que1CheckPrimePrefect\obj\Debug\Que1CheckPrimePrefect.pdb

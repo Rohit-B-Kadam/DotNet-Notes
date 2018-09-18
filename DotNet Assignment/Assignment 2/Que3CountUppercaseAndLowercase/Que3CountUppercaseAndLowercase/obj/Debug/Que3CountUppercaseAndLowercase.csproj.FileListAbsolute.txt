@@ -1,0 +1,6 @@
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que3CountUppercaseAndLowercase\Que3CountUppercaseAndLowercase\bin\Debug\Que3CountUppercaseAndLowercase.exe.config
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que3CountUppercaseAndLowercase\Que3CountUppercaseAndLowercase\bin\Debug\Que3CountUppercaseAndLowercase.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que3CountUppercaseAndLowercase\Que3CountUppercaseAndLowercase\bin\Debug\Que3CountUppercaseAndLowercase.pdb
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que3CountUppercaseAndLowercase\Que3CountUppercaseAndLowercase\obj\Debug\Que3CountUppercaseAndLowercase.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que3CountUppercaseAndLowercase\Que3CountUppercaseAndLowercase\obj\Debug\Que3CountUppercaseAndLowercase.pdb
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que3CountUppercaseAndLowercase\Que3CountUppercaseAndLowercase\obj\Debug\Que3CountUppercaseAndLowercase.csprojResolveAssemblyReference.cache

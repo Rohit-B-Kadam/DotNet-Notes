@@ -1,0 +1,6 @@
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que2CmdLineInput\Que2CmdLineInput\bin\Debug\Que2CmdLineInput.exe.config
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que2CmdLineInput\Que2CmdLineInput\bin\Debug\Que2CmdLineInput.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que2CmdLineInput\Que2CmdLineInput\bin\Debug\Que2CmdLineInput.pdb
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que2CmdLineInput\Que2CmdLineInput\obj\Debug\Que2CmdLineInput.csprojResolveAssemblyReference.cache
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que2CmdLineInput\Que2CmdLineInput\obj\Debug\Que2CmdLineInput.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que2CmdLineInput\Que2CmdLineInput\obj\Debug\Que2CmdLineInput.pdb

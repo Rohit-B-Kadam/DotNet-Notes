@@ -1,0 +1,6 @@
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que3Factorial\Que3Factorial\bin\Debug\Que3Factorial.exe.config
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que3Factorial\Que3Factorial\bin\Debug\Que3Factorial.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que3Factorial\Que3Factorial\bin\Debug\Que3Factorial.pdb
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que3Factorial\Que3Factorial\obj\Debug\Que3Factorial.csprojResolveAssemblyReference.cache
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que3Factorial\Que3Factorial\obj\Debug\Que3Factorial.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que3Factorial\Que3Factorial\obj\Debug\Que3Factorial.pdb

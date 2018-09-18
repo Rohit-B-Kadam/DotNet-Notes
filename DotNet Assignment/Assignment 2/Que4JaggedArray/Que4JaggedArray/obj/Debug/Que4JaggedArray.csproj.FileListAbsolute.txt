@@ -1,0 +1,6 @@
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que4JaggedArray\Que4JaggedArray\bin\Debug\Que4JaggedArray.exe.config
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que4JaggedArray\Que4JaggedArray\bin\Debug\Que4JaggedArray.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que4JaggedArray\Que4JaggedArray\bin\Debug\Que4JaggedArray.pdb
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que4JaggedArray\Que4JaggedArray\obj\Debug\Que4JaggedArray.csprojResolveAssemblyReference.cache
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que4JaggedArray\Que4JaggedArray\obj\Debug\Que4JaggedArray.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que4JaggedArray\Que4JaggedArray\obj\Debug\Que4JaggedArray.pdb

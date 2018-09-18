@@ -1,0 +1,6 @@
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que1MaxMinOf3\Que1MaxMinOf3\bin\Debug\Que1MaxMinOf3.exe.config
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que1MaxMinOf3\Que1MaxMinOf3\bin\Debug\Que1MaxMinOf3.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que1MaxMinOf3\Que1MaxMinOf3\bin\Debug\Que1MaxMinOf3.pdb
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que1MaxMinOf3\Que1MaxMinOf3\obj\Debug\Que1MaxMinOf3.csprojResolveAssemblyReference.cache
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que1MaxMinOf3\Que1MaxMinOf3\obj\Debug\Que1MaxMinOf3.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 1\Que1MaxMinOf3\Que1MaxMinOf3\obj\Debug\Que1MaxMinOf3.pdb

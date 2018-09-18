@@ -1,0 +1,6 @@
+C:\Users\Rohit\Desktop\dot Net\Program\Pointer\Pointer\bin\Debug\Pointer.exe.config
+C:\Users\Rohit\Desktop\dot Net\Program\Pointer\Pointer\obj\Debug\Pointer.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\Desktop\dot Net\Program\Pointer\Pointer\bin\Debug\Pointer.exe
+C:\Users\Rohit\Desktop\dot Net\Program\Pointer\Pointer\bin\Debug\Pointer.pdb
+C:\Users\Rohit\Desktop\dot Net\Program\Pointer\Pointer\obj\Debug\Pointer.exe
+C:\Users\Rohit\Desktop\dot Net\Program\Pointer\Pointer\obj\Debug\Pointer.pdb

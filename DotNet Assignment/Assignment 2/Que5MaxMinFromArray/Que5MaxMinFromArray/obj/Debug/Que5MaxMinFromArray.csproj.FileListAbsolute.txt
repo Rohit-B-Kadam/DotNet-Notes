@@ -1,0 +1,5 @@
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que5MaxMinFromArray\Que5MaxMinFromArray\bin\Debug\Que5MaxMinFromArray.exe.config
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que5MaxMinFromArray\Que5MaxMinFromArray\bin\Debug\Que5MaxMinFromArray.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que5MaxMinFromArray\Que5MaxMinFromArray\bin\Debug\Que5MaxMinFromArray.pdb
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que5MaxMinFromArray\Que5MaxMinFromArray\obj\Debug\Que5MaxMinFromArray.exe
+H:\Technology\Dot Net\DotNet Assignment\Assignment 2\Que5MaxMinFromArray\Que5MaxMinFromArray\obj\Debug\Que5MaxMinFromArray.pdb
