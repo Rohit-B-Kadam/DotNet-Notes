@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverridingAndRedefinition", "OverridingAndRedefinition\OverridingAndRedefinition.csproj", "{583FD9BE-A9A4-40A0-883D-A3EF9409C96D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583FD9BE-A9A4-40A0-883D-A3EF9409C96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583FD9BE-A9A4-40A0-883D-A3EF9409C96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583FD9BE-A9A4-40A0-883D-A3EF9409C96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583FD9BE-A9A4-40A0-883D-A3EF9409C96D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CC00232-2305-4D90-9E5E-AD12653325DB}
+	EndGlobalSection
+EndGlobal
