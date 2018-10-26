@@ -29,47 +29,53 @@ namespace Marvellous_Calculator
             InitializeComponent();
             cal = new Calculator();
             txtScreen.Text = cal.screenData;
-            txtUppScreen.Text = cal.expression;
             rbDec.IsChecked = true;
         }
 
         private void Operation_Click(object sender, RoutedEventArgs e)
         {
+            cal.OffFunctionOutputDisplay();
             switch ((sender as Button).Name)
             {
                 // Arithmetric Operation
                 case "btnAdd":
-                    cal.BinaryOperator("+");
+                    cal.BinaryOperator("Add");
                     break;
                 case "btnSubt":
-                    cal.BinaryOperator("-");
+                    cal.BinaryOperator("Subt");
                     break;
                 case "btnMulti":
-                    cal.BinaryOperator("*");
+                    cal.BinaryOperator("Multi");
                     break;
                 case "btnDiv":
-                    cal.BinaryOperator("/");
+                    cal.BinaryOperator("Div");
                     break;
                 case "btnMod":
-                    cal.BinaryOperator("%");
+                    cal.BinaryOperator("Mod");
+                    break;
+                case "btnSqrt":
+                    cal.UniaryOperator("Sqrt");
+                    break;
+                case "btnPower":
+                    cal.BinaryOperator("Power");
                     break;
                 case "btnRsh":
-                    cal.BinaryOperator(">");
+                    cal.BinaryOperator("Rsh");
                     break;
                 case "btnLsh":
-                    cal.BinaryOperator("<");
+                    cal.BinaryOperator("Lsh");
                     break;
                 case "btnXor":
-                    cal.BinaryOperator("^");
+                    cal.BinaryOperator("Xor");
                     break;
                 case "btnOr":
-                    cal.BinaryOperator("|");
+                    cal.BinaryOperator("Or");
                     break;
                 case "btnAnd":
-                    cal.BinaryOperator("&");
+                    cal.BinaryOperator("And");
                     break;
                 case "btnNot":
-                    cal.UniaryOperator("!");
+                    cal.UniaryOperator("Not");
                     break;
 
                 case "btnBackspace":
@@ -101,20 +107,15 @@ namespace Marvellous_Calculator
                 case "btnCheck":
                     cal.NumberFunction(FunctionComboBox.SelectedItem.ToString());
                     break;
-                case "btnOpenBkt":
-                    cal.Brackets("(");
-                    break;
-                case "btnCloseBkt":
-                    cal.Brackets(")");
-                    break;
             }
 
             DisplayOnScreen(cal.screenData);
-            txtUppScreen.Text = cal.expression;
         }
 
         private void Digit_Click(object sender, RoutedEventArgs e)
         {
+
+            cal.OffFunctionOutputDisplay();
             switch ((sender as Button).Name)
             {
                 case "btn0":
@@ -169,12 +170,13 @@ namespace Marvellous_Calculator
             }
 
             DisplayOnScreen(cal.screenData);
-            txtUppScreen.Text = cal.expression;
         }
 
         //Conversation_Click
         private void Conversion_Click(object sender, RoutedEventArgs e)
         {
+
+            cal.OffFunctionOutputDisplay();
             string cn = (sender as RadioButton).Name;
             switch ( cn )
             {
@@ -252,13 +254,13 @@ namespace Marvellous_Calculator
         {
             var selectedComboItem = sender as ComboBox;
             string name = selectedComboItem.SelectedItem as string;
-            if( name.Contains("Is"))
+            if( name.Equals("Factorial") || name.Equals("Factor"))
             {
-                btnCheck.Content = "Check";
+                btnCheck.Content = "Get";
             }
             else
             {
-                btnCheck.Content = "Get";
+                btnCheck.Content = "Check";
             }
            
         }
@@ -269,7 +271,7 @@ namespace Marvellous_Calculator
             if (combo.Name.Equals("BitComboBox"))
             {
                 List<int> no = new List<int>();
-                for (int i = 0; i <= 50; i++)
+                for (int i = 0; i <= 63; i++)
                     no.Add(i);
                 
                 combo.ItemsSource = no;

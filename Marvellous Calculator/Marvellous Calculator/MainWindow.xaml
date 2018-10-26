@@ -47,8 +47,7 @@
                  IsReadOnly="true"
                  Background="#424242"
                  BorderBrush="#424242"
-                 Foreground="#FAFAFA" SelectionBrush="#424242"
-         
+                 Foreground="#FAFAFA"
                  >
             </TextBox>
 
@@ -374,20 +373,20 @@
                 MOD
             </Button>
 
-            <!-- btnOpenBkt -->
-            <Button Name="btnOpenBkt" Background="#9E9E9E"
+            <!-- SQRT -->
+            <Button Name="btnSqrt" Background="#9E9E9E"
                     Grid.Row="2" Grid.Column="4" 
                     FontSize="20" 
-                    Click="Operation_Click" IsEnabled="False" >
-                (
+                    Click="Operation_Click" >
+                SQRT
             </Button>
 
-            <!-- btnCloseBkt -->
-            <Button Name="btnCloseBkt" Background="#9E9E9E"
+            <!-- Power -->
+            <Button Name="btnPower" Background="#9E9E9E"
                     Grid.Row="2" Grid.Column="5" 
-                    FontSize="20" IsEnabled="False"
+                    FontSize="20" 
                     Click="Operation_Click" >
-                )
+                POW
             </Button>
 
 
