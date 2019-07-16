@@ -1,7 +1,0 @@
-H:\Technology\Dot Net\DotNet Practices\My First App on VS17\My First App on VS17\bin\Debug\My First App on VS17.exe.config
-H:\Technology\Dot Net\DotNet Practices\My First App on VS17\My First App on VS17\bin\Debug\My First App on VS17.exe
-H:\Technology\Dot Net\DotNet Practices\My First App on VS17\My First App on VS17\bin\Debug\My First App on VS17.pdb
-H:\Technology\Dot Net\DotNet Practices\My First App on VS17\My First App on VS17\obj\Debug\My First App on VS17.csprojAssemblyReference.cache
-H:\Technology\Dot Net\DotNet Practices\My First App on VS17\My First App on VS17\obj\Debug\My First App on VS17.csproj.CoreCompileInputs.cache
-H:\Technology\Dot Net\DotNet Practices\My First App on VS17\My First App on VS17\obj\Debug\My First App on VS17.exe
-H:\Technology\Dot Net\DotNet Practices\My First App on VS17\My First App on VS17\obj\Debug\My First App on VS17.pdb

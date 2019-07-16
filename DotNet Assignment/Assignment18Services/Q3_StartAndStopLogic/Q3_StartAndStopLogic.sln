@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q3_StartAndStopLogic", "Q3_StartAndStopLogic\Q3_StartAndStopLogic.csproj", "{7C6CCC02-572B-4F12-9062-35C81F2D9095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6CCC02-572B-4F12-9062-35C81F2D9095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6CCC02-572B-4F12-9062-35C81F2D9095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6CCC02-572B-4F12-9062-35C81F2D9095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6CCC02-572B-4F12-9062-35C81F2D9095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72131205-40DC-4D8A-BB07-4975F0D60706}
+	EndGlobalSection
+EndGlobal

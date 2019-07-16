@@ -1,6 +1,0 @@
-C:\Users\Rohit\Desktop\dot Net\Program\ObjectOrientedApproch\ObjectOrientedApproch\bin\Debug\ObjectOrientedApproch.exe.config
-C:\Users\Rohit\Desktop\dot Net\Program\ObjectOrientedApproch\ObjectOrientedApproch\bin\Debug\ObjectOrientedApproch.exe
-C:\Users\Rohit\Desktop\dot Net\Program\ObjectOrientedApproch\ObjectOrientedApproch\bin\Debug\ObjectOrientedApproch.pdb
-C:\Users\Rohit\Desktop\dot Net\Program\ObjectOrientedApproch\ObjectOrientedApproch\obj\Debug\ObjectOrientedApproch.csprojResolveAssemblyReference.cache
-C:\Users\Rohit\Desktop\dot Net\Program\ObjectOrientedApproch\ObjectOrientedApproch\obj\Debug\ObjectOrientedApproch.exe
-C:\Users\Rohit\Desktop\dot Net\Program\ObjectOrientedApproch\ObjectOrientedApproch\obj\Debug\ObjectOrientedApproch.pdb
